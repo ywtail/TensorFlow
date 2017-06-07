@@ -1,5 +1,5 @@
 # coding=utf-8
-# cnn_l2
+# cnn_lrn
 from __future__ import division
 
 import cifar10, cifar10_input
