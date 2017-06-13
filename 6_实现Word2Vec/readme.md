@@ -4,7 +4,7 @@
 - `word2vec.ipynb`：完整代码（使用jupyter notebook）
 - `tsne.png`：生成的可视化文件
 
-如果直接点击上方的 `word2vec.ipynb` 无法预览，可点击 [这个链接](https://ywtail.github.io/TensorFlow/5_word2vec.html) 查看运行过程。
+如果直接点击上方的 `word2vec.ipynb` 无法预览，可点击 [这个链接](https://ywtail.github.io/TensorFlow/6_word2vec.html) 查看运行过程。
 
 **详细解读见博客 [TensorFlow (6): 实现Word2Vec](http://ywtail.github.io/2017/06/09/TensorFlow-6-%E5%AE%9E%E7%8E%B0Word2Vec/)**
 
